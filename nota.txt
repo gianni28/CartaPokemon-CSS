@@ -1,0 +1,3 @@
+muy buen trabajo, excelente manejo de flexbox, recuerda que puedes usar mas selectores para que tus estilos sean mas reusables
+
+Nota: 5
